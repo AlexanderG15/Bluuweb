@@ -1,0 +1,92 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color:#444444;
+}
+
+
+h1,h2,h3,h4,h5,h6,p{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-size:2.5rem;    
+    font-weight:300;
+}
+
+.h1{
+    font-weight:300;
+}
+
+h2{
+    font-size:2rem;
+    font-weight:300;
+}
+
+h3{
+    font-size:1.75rem;
+    font-weight:300;
+}
+
+h4{
+    font-size:1.5rem;
+    font-weight:400;
+}
+
+p{
+    font-weight:300;
+}
+
+.card-body .display-1{
+    font-size:6.25rem;
+}
+
+.dark{
+    background-color:rgba(0,0,0,.5);
+    height:100vh;
+}
+
+.bg-light{
+    background-color:#efefef;
+}
+
+.bg-red-light{
+    background-color:#f38181;
+}
+
+.bg-purple{
+    background-color:#625772;
+}
+
+.bg-primary{
+    background-color:#a9eee6 !important;
+}
+
+a.bg-primary:hover, a.bg-primary:focus{
+    background-color:#3c8980 !important;
+}
+
+.bg{
+ background: url('../img/cover.jpg');
+ height:100vh;
+ background-position:center;
+ background-size:cover;
+}
+
+.btn{
+    font-size:1.25rem;
+    font-weight:300;
+}
+
+.padding-tb{
+    padding-bottom:2.5rem;
+    padding-top:2.5rem;
+}
+
+
+ .iconos{
+    font-size:2.5rem !important;
+ }
+
+.card{
+    border:none;
+}
